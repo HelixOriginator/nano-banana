@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-  <!-- Main landing page – highest priority -->
+  <!-- Main page – highest priority -->
   <url>
     <loc>https://kallol.github.io/nano-banana/</loc>
     <lastmod>2025-11-28</lastmod>
@@ -12,7 +12,7 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- Publish page (most important action) -->
+  <!-- Publish section -->
   <url>
     <loc>https://kallol.github.io/nano-banana/#publish</loc>
     <lastmod>2025-11-28</lastmod>
@@ -20,7 +20,7 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- GitHub repo (drives trust & backlinks) -->
+  <!-- GitHub repo -->
   <url>
     <loc>https://github.com/kallol/nano-banana</loc>
     <lastmod>2025-11-28</lastmod>
@@ -28,7 +28,7 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- Future custom domain (add this now so Google reserves it) -->
+  <!-- Future custom domain (pre-claim it) -->
   <url>
     <loc>https://nanobanana.org/</loc>
     <lastmod>2025-11-28</lastmod>
